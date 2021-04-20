@@ -1,2 +1,2 @@
 Primer archivo proyecto 01 git, modificado por Code
-Hablaremos de la codificación
+Hablaremos de la codificación con Code Visual Studio
